@@ -27,7 +27,7 @@ A modern messaging application built with Next.js, React, and MongoDB. Share and
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/ArcTyXiaN/linkd.git>
 cd linkd
 ```
 
